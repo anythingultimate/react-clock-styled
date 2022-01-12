@@ -1,6 +1,6 @@
 {
   "name": "react-clock-styled",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react-clock-styled is an analog clock component with some nice features !",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
