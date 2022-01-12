@@ -35,7 +35,7 @@ function App() {
     <Clock size="" border="8px solid" color="#94B3FD" handleColor="#FF5DA2" bg="#000D6B" />
     </div>
     <div className="clock">
-    <Clock size="300px" border="" color="" handleColor="" bg="" />
+    <Clock size="sm" border="" color="" handleColor="" bg="" />
     </div>
     </Main>
   );
